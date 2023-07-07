@@ -5,6 +5,5 @@
 # Hi, I’m Ahmad Nour 👋🏾‍💻
 I am a software engineer with more than three years of experience in developing and maintaining software applications. I currently work mainly with C# in the ASP Web API Framework, as well as with JavaScript, TypeScript, React, React-Native and Angular.
 Passionate about learning new technologies and collaborating with highly skilled professionals to expand my knowledge and grow in my career.
-<a href="https://www.freepik.com/free-vector/beautiful-roses-invitation-card-template_9998195.htm#query=floral%20wedding%20invitation&position=30&from_view=keyword&track=ais">Image by lukasdedi</a> on Freepik
 </div>
    
